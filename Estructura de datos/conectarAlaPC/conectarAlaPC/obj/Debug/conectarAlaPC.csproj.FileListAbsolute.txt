@@ -1,0 +1,16 @@
+c:\users\enrique\documents\visual studio 2012\Projects\conectarAlaPC\conectarAlaPC\bin\Debug\conectarAlaPC.exe.config
+C:\Users\Edsel\Dropbox\Equipo Facu\conectarAlaPC\conectarAlaPC\bin\Debug\conectarAlaPC.exe.config
+C:\Users\Edsel\Dropbox\Equipo Facu\conectarAlaPC\conectarAlaPC\bin\Debug\conectarAlaPC.exe
+C:\Users\Edsel\Dropbox\Equipo Facu\conectarAlaPC\conectarAlaPC\bin\Debug\conectarAlaPC.pdb
+C:\Users\Edsel\Dropbox\Equipo Facu\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Equipo Facu\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.Form1.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Equipo Facu\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.exe
+C:\Users\Edsel\Dropbox\Equipo Facu\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.pdb
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\conectarAlaPC\conectarAlaPC\bin\Debug\conectarAlaPC.exe.config
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.exe
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.pdb
+C:\Users\KEVIN ROBERTO\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 4to Semestre\Estructura de datos\conectarAlaPC\conectarAlaPC\bin\Debug\conectarAlaPC.exe.config
+C:\Users\KEVIN ROBERTO\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 4to Semestre\Estructura de datos\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.exe
+C:\Users\KEVIN ROBERTO\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 4to Semestre\Estructura de datos\conectarAlaPC\conectarAlaPC\obj\Debug\conectarAlaPC.pdb

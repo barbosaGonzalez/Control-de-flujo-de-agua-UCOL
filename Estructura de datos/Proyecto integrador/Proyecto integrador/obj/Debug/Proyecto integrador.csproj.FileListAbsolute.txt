@@ -1,0 +1,84 @@
+C:\Users\Jose\Documents\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+C:\Users\Jose\Documents\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmPrincipal.resources
+C:\Users\Jose\Documents\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+C:\Users\Jose\Documents\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+C:\Users\Jose\Documents\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+C:\Users\Jose\Documents\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+C:\Users\Jose\Documents\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Jose\Dropbox\4D Ingeniero en Software\Estructura de datos\3Parcial\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+C:\Users\Jose\Dropbox\4D Ingeniero en Software\Estructura de datos\3Parcial\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+C:\Users\Jose\Dropbox\4D Ingeniero en Software\Estructura de datos\3Parcial\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Jose\Dropbox\4D Ingeniero en Software\Estructura de datos\3Parcial\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+C:\Users\Jose\Dropbox\4D Ingeniero en Software\Estructura de datos\3Parcial\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+C:\Users\Jose\Dropbox\4D Ingeniero en Software\Estructura de datos\3Parcial\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Dropbox\4D Ingeniero en Software\Estructura de datos\3Parcial\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmPrincipal.resources
+C:\Users\Jose\Dropbox\4D Ingeniero en Software\Estructura de datos\3Parcial\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+C:\Users\Jose\Dropbox\4D Ingeniero en Software\Estructura de datos\3Parcial\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache
+G:\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+G:\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+G:\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+G:\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+G:\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+G:\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+G:\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmPrincipal.resources
+G:\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+G:\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmPrincipal.resources
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache
+C:\Users\Jose\Pictures\Proyecto integrador v1\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+C:\Users\Jose\Pictures\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+C:\Users\Jose\Pictures\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Jose\Pictures\Proyecto integrador v1\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+C:\Users\Jose\Pictures\Proyecto integrador v1\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+C:\Users\Jose\Pictures\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Pictures\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto_integrador.frmPrincipal.resources
+C:\Users\Jose\Pictures\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+C:\Users\Jose\Pictures\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache
+N:\Dropbox\Proyecto integrador v1\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+N:\Dropbox\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+N:\Dropbox\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Edsel\Downloads\Proyecto integrador v1\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+C:\Users\Edsel\Downloads\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+C:\Users\Edsel\Downloads\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Edsel\Downloads\Proyecto integrador v1\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+C:\Users\Edsel\Downloads\Proyecto integrador v1\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+C:\Users\Edsel\Downloads\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Downloads\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto_integrador.frmPrincipal.resources
+C:\Users\Edsel\Downloads\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+C:\Users\Edsel\Downloads\Proyecto integrador v1\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmReporte.resources
+C:\Users\Edsel\Documents\Visual Studio 2012\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmFlujo.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmPrincipal.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmFlujo.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmReporte.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Equipo Facu\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\KEVIN ROBERTO\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+C:\Users\KEVIN ROBERTO\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+C:\Users\KEVIN ROBERTO\Dropbox\Proyecto Integrador 3er semestre\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmPrincipal.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmFlujo.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmReporte.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Proyectos Integradores 2,3,4\Proyecto Integrador 4to Semestre\Estructura de datos\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+G:\Z-Documents\IES\IV\Estructura de datos\Muestreos\Proyecto Grafos Colima\Proyecto Grafos Colima\bin\Debug\Proyecto Grafos Colima.exe.config
+G:\Z-Documents\IES\IV\Estructura de datos\Muestreos\Proyecto Grafos Colima\Proyecto Grafos Colima\bin\Debug\Proyecto Grafos Colima.exe
+G:\Z-Documents\IES\IV\Estructura de datos\Muestreos\Proyecto Grafos Colima\Proyecto Grafos Colima\bin\Debug\Proyecto Grafos Colima.pdb
+G:\Z-Documents\IES\IV\Estructura de datos\Muestreos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.csprojResolveAssemblyReference.cache
+G:\Z-Documents\IES\IV\Estructura de datos\Muestreos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto_Grafos_Colima.frmMain.resources
+G:\Z-Documents\IES\IV\Estructura de datos\Muestreos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto_Grafos_Colima.Properties.Resources.resources
+G:\Z-Documents\IES\IV\Estructura de datos\Muestreos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.csproj.GenerateResource.Cache
+G:\Z-Documents\IES\IV\Estructura de datos\Muestreos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.exe
+G:\Z-Documents\IES\IV\Estructura de datos\Muestreos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.pdb
+E:\Z-Documents\IES\IV\Estructura de Datos\Proyecto Grafos Colima\Proyecto Grafos Colima\bin\Debug\Proyecto Grafos Colima.exe.config
+E:\Z-Documents\IES\IV\Estructura de Datos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.exe
+E:\Z-Documents\IES\IV\Estructura de Datos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.pdb
+E:\Z-Documents\IES\IV\Estructura de Datos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.csprojResolveAssemblyReference.cache
+E:\Z-Documents\IES\IV\Estructura de Datos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto_Grafos_Colima.frmMain.resources
+E:\Z-Documents\IES\IV\Estructura de Datos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto_Grafos_Colima.Properties.Resources.resources
+E:\Z-Documents\IES\IV\Estructura de Datos\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.csproj.GenerateResource.Cache
+E:\Z-Documents\IES\IV\Estructura de Datos\Proyecto Grafos Colima\Proyecto Grafos Colima\bin\Debug\Proyecto Grafos Colima.exe
+E:\Z-Documents\IES\IV\Estructura de Datos\Proyecto Grafos Colima\Proyecto Grafos Colima\bin\Debug\Proyecto Grafos Colima.pdb
+G:\Z-Documents\IES\IV\Estructura de datos\dijkztra\Nueva carpeta\Nueva carpeta\Proyecto Grafos Colima\Proyecto Grafos Colima\bin\Debug\Proyecto Grafos Colima.exe.config
+G:\Z-Documents\IES\IV\Estructura de datos\dijkztra\Nueva carpeta\Nueva carpeta\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.exe
+G:\Z-Documents\IES\IV\Estructura de datos\dijkztra\Nueva carpeta\Nueva carpeta\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.pdb
+G:\Z-Documents\IES\IV\Estructura de datos\dijkztra\Nueva carpeta\Nueva carpeta\Proyecto Grafos Colima\Proyecto Grafos Colima\bin\Debug\Proyecto Grafos Colima.exe
+G:\Z-Documents\IES\IV\Estructura de datos\dijkztra\Nueva carpeta\Nueva carpeta\Proyecto Grafos Colima\Proyecto Grafos Colima\bin\Debug\Proyecto Grafos Colima.pdb
+G:\Z-Documents\IES\IV\Estructura de datos\dijkztra\Nueva carpeta\Nueva carpeta\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.csprojResolveAssemblyReference.cache
+G:\Z-Documents\IES\IV\Estructura de datos\dijkztra\Nueva carpeta\Nueva carpeta\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto_Grafos_Colima.frmMain.resources
+G:\Z-Documents\IES\IV\Estructura de datos\dijkztra\Nueva carpeta\Nueva carpeta\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto_Grafos_Colima.Properties.Resources.resources
+G:\Z-Documents\IES\IV\Estructura de datos\dijkztra\Nueva carpeta\Nueva carpeta\Proyecto Grafos Colima\Proyecto Grafos Colima\obj\Debug\Proyecto Grafos Colima.csproj.GenerateResource.Cache
